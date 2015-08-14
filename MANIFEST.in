@@ -1,0 +1,3 @@
+include src/tgconf_libera_brilliance_plus/images/*
+include src/tgconf_libera_brilliance_plus/default.ini
+include maxiv-linac-libera-brilliance-plus.desktop

@@ -1,0 +1,2 @@
+#!/bin/bash
+python -m tgconf_libera_brilliance_plus.main --taurus-polling-period=1000

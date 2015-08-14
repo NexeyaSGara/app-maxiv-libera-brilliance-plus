@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Name=MAX IV LiberaBrilliancePlus
+Exec=ctLiberaBrilliancePlus
+Type=Application
+Categories=MAXIV
+Comment=The Libera Brilliance Plus Taurus GUI
+Terminal=false
+Name[en_US]=maxiv-libera-brilliance-plus.desktop
